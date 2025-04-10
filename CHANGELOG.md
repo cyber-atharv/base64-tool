@@ -8,3 +8,6 @@ All notable changes to base64-tool will be documented in this file.
 ## [0.1.1] - 2025-04-07
 - feat: add recursive peeling for multi-layer encoded strings
 
+## [0.1.2] - 2025-04-10
+- fix: handle URL-safe base64 padding correctly
+
